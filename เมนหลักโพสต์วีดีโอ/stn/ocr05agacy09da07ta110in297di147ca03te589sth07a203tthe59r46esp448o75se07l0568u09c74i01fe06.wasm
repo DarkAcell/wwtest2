@@ -1,539 +1,0 @@
-﻿asmñC`````````````````|`|``
-``	`|`~~`||`~`~~~~`	`|`}`~~`|`||``~`~~`|`~`~`~~`}`|`|||`|`~`||`~`~~`}`|`~`}`|`|`~`|`~`~~~~`|`||`}`}}`~~}`}}`|`~~|`|||2envexitenv
-__assert_failenv
-testSetjmpenvemscripten_longjmpenvsetTempRet0envgetTempRet0env
-saveSetjmpenv
-invoke_iiienvinvoke_iiiiienvsysconfenvroundf?envinvoke_iiiienv	invoke_vienvtimeenvabortenvgettimeofdayenv__syscall221wasi_snapshot_preview1fd_closeenv
-__syscall5env__syscall39env__syscall15env__syscall196env__syscall197env__syscall195env__clock_gettimeenv__syscall220env__syscall40env
-__syscall9env__syscall85env__syscall33wasi_snapshot_preview1fd_writeenv
-__syscall3env__syscall83env__syscall183env__syscall20env__syscall10env__syscall125env__syscall91env__syscall54wasi_snapshot_preview1fd_readenv__syscall38env
-__map_filewasi_snapshot_preview1environ_sizes_getwasi_snapshot_preview1environ_getwasi_snapshot_preview1
-fd_fdstat_getenvemscripten_resize_heapenvemscripten_memcpy_bigwasi_snapshot_preview1fd_seekenvmemoryenvtablepóåã7	-	)
-
-
-	
-
-	
-
-
-3=
-
-						(<	
-		
-	
-
-
-
-(
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-
-
-
-
-
-		
-
-
-				
-
-		2		1
-
-
-
-
-
-
-		+								;$
-
-4
-!
-
-
-
-	%
-			
-:  %6
-	"8".'&,'&	)9#0/A>*$B* #	
-
-!@5
-AÐ°çAÐ°'ôNô__wasm_call_ctors0main2%emscripten_bind_ASS_Event_get_Start_0%emscripten_bind_ASS_Event_set_Start_1(emscripten_bind_ASS_Event_get_Duration_0(emscripten_bind_ASS_Event_set_Duration_1)emscripten_bind_ASS_Event_get_ReadOrder_03)emscripten_bind_ASS_Event_set_ReadOrder_14%emscripten_bind_ASS_Event_get_Layer_05%emscripten_bind_ASS_Event_set_Layer_16%emscripten_bind_ASS_Event_get_Style_07%emscripten_bind_ASS_Event_set_Style_18$emscripten_bind_ASS_Event_get_Name_09$emscripten_bind_ASS_Event_set_Name_1:'emscripten_bind_ASS_Event_get_MarginL_0;'emscripten_bind_ASS_Event_set_MarginL_1<'emscripten_bind_ASS_Event_get_MarginR_0='emscripten_bind_ASS_Event_set_MarginR_1>'emscripten_bind_ASS_Event_get_MarginV_0?'emscripten_bind_ASS_Event_set_MarginV_1@&emscripten_bind_ASS_Event_get_Effect_0A&emscripten_bind_ASS_Event_set_Effect_1B$emscripten_bind_ASS_Event_get_Text_0C$emscripten_bind_ASS_Event_set_Text_1D1emscripten_bind_SubtitleOctopus_SubtitleOctopus_0E-emscripten_bind_SubtitleOctopus_setLogLevel_1F-emscripten_bind_SubtitleOctopus_initLibrary_2G-emscripten_bind_SubtitleOctopus_createTrack_1I0emscripten_bind_SubtitleOctopus_createTrackMem_2J-emscripten_bind_SubtitleOctopus_removeTrack_0K.emscripten_bind_SubtitleOctopus_resizeCanvas_2L-emscripten_bind_SubtitleOctopus_renderImage_2M-emscripten_bind_SubtitleOctopus_quitLibrary_0N/emscripten_bind_SubtitleOctopus_reloadLibrary_0O-emscripten_bind_SubtitleOctopus_reloadFonts_0P+emscripten_bind_SubtitleOctopus_setMargin_4Q/emscripten_bind_SubtitleOctopus_getEventCount_0R,emscripten_bind_SubtitleOctopus_allocEvent_0S,emscripten_bind_SubtitleOctopus_allocStyle_0T-emscripten_bind_SubtitleOctopus_removeEvent_1U/emscripten_bind_SubtitleOctopus_getStyleCount_0V0emscripten_bind_SubtitleOctopus_getStyleByName_1W-emscripten_bind_SubtitleOctopus_removeStyle_1U1emscripten_bind_SubtitleOctopus_removeAllEvents_0X+emscripten_bind_SubtitleOctopus_get_track_0Y+emscripten_bind_SubtitleOctopus_set_track_1Z2emscripten_bind_SubtitleOctopus_get_ass_renderer_0[2emscripten_bind_SubtitleOctopus_set_ass_renderer_1\1emscripten_bind_SubtitleOctopus_get_ass_library_0]1emscripten_bind_SubtitleOctopus_set_ass_library_1^-emscripten_bind_SubtitleOctopus___destroy___0_(emscripten_bind_ASS_Track_get_n_styles_0](emscripten_bind_ASS_Track_set_n_styles_1^*emscripten_bind_ASS_Track_get_max_styles_0[*emscripten_bind_ASS_Track_set_max_styles_1\(emscripten_bind_ASS_Track_get_n_events_0Y(emscripten_bind_ASS_Track_set_n_events_1Z*emscripten_bind_ASS_Track_get_max_events_0`*emscripten_bind_ASS_Track_set_max_events_1a&emscripten_bind_ASS_Track_get_styles_1b&emscripten_bind_ASS_Track_set_styles_2c&emscripten_bind_ASS_Track_get_events_1d&emscripten_bind_ASS_Track_set_events_2e,emscripten_bind_ASS_Track_get_style_format_07,emscripten_bind_ASS_Track_set_style_format_18,emscripten_bind_ASS_Track_get_event_format_09,emscripten_bind_ASS_Track_set_event_format_1:(emscripten_bind_ASS_Track_get_PlayResX_0=(emscripten_bind_ASS_Track_set_PlayResX_1>(emscripten_bind_ASS_Track_get_PlayResY_0?(emscripten_bind_ASS_Track_set_PlayResY_1@%emscripten_bind_ASS_Track_get_Timer_0f%emscripten_bind_ASS_Track_set_Timer_1g)emscripten_bind_ASS_Track_get_WrapStyle_0h)emscripten_bind_ASS_Track_set_WrapStyle_1i5emscripten_bind_ASS_Track_get_ScaledBorderAndShadow_0j5emscripten_bind_ASS_Track_set_ScaledBorderAndShadow_1k'emscripten_bind_ASS_Track_get_Kerning_0l'emscripten_bind_ASS_Track_set_Kerning_1m(emscripten_bind_ASS_Track_get_Language_0n(emscripten_bind_ASS_Track_set_Language_1o-emscripten_bind_ASS_Track_get_default_style_0p-emscripten_bind_ASS_Track_set_default_style_1q$emscripten_bind_ASS_Track_get_name_0r$emscripten_bind_ASS_Track_set_name_1s$emscripten_bind_ASS_Style_get_Name_0]$emscripten_bind_ASS_Style_set_Name_1^(emscripten_bind_ASS_Style_get_FontName_0[(emscripten_bind_ASS_Style_set_FontName_1\(emscripten_bind_ASS_Style_get_FontSize_0t(emscripten_bind_ASS_Style_set_FontSize_1u-emscripten_bind_ASS_Style_get_PrimaryColour_03-emscripten_bind_ASS_Style_set_PrimaryColour_14/emscripten_bind_ASS_Style_get_SecondaryColour_05/emscripten_bind_ASS_Style_set_SecondaryColour_16-emscripten_bind_ASS_Style_get_OutlineColour_07-emscripten_bind_ASS_Style_set_OutlineColour_18*emscripten_bind_ASS_Style_get_BackColour_09*emscripten_bind_ASS_Style_set_BackColour_1:$emscripten_bind_ASS_Style_get_Bold_0;$emscripten_bind_ASS_Style_set_Bold_1<&emscripten_bind_ASS_Style_get_Italic_0=&emscripten_bind_ASS_Style_set_Italic_1>)emscripten_bind_ASS_Style_get_Underline_0?)emscripten_bind_ASS_Style_set_Underline_1@)emscripten_bind_ASS_Style_get_StrikeOut_0A)emscripten_bind_ASS_Style_set_StrikeOut_1B&emscripten_bind_ASS_Style_get_ScaleX_0f&emscripten_bind_ASS_Style_set_ScaleX_1g&emscripten_bind_ASS_Style_get_ScaleY_0v&emscripten_bind_ASS_Style_set_ScaleY_1w'emscripten_bind_ASS_Style_get_Spacing_0x'emscripten_bind_ASS_Style_set_Spacing_1y%emscripten_bind_ASS_Style_get_Angle_0z%emscripten_bind_ASS_Style_set_Angle_1{+emscripten_bind_ASS_Style_get_BorderStyle_0r+emscripten_bind_ASS_Style_set_BorderStyle_1s'emscripten_bind_ASS_Style_get_Outline_0|'emscripten_bind_ASS_Style_set_Outline_1}&emscripten_bind_ASS_Style_get_Shadow_0~&emscripten_bind_ASS_Style_set_Shadow_1)emscripten_bind_ASS_Style_get_Alignment_0)emscripten_bind_ASS_Style_set_Alignment_1'emscripten_bind_ASS_Style_get_MarginL_0'emscripten_bind_ASS_Style_set_MarginL_1'emscripten_bind_ASS_Style_get_MarginR_0'emscripten_bind_ASS_Style_set_MarginR_1'emscripten_bind_ASS_Style_get_MarginV_0'emscripten_bind_ASS_Style_set_MarginV_1(emscripten_bind_ASS_Style_get_Encoding_0(emscripten_bind_ASS_Style_set_Encoding_19emscripten_bind_ASS_Style_get_treat_fontname_as_pattern_09emscripten_bind_ASS_Style_set_treat_fontname_as_pattern_1$emscripten_bind_ASS_Style_get_Blur_0$emscripten_bind_ASS_Style_set_Blur_1'emscripten_bind_ASS_Style_get_Justify_0'emscripten_bind_ASS_Style_set_Justify_1!emscripten_bind_ASS_Image_get_w_0]!emscripten_bind_ASS_Image_set_w_1^!emscripten_bind_ASS_Image_get_h_0[!emscripten_bind_ASS_Image_set_h_1\&emscripten_bind_ASS_Image_get_stride_0Y&emscripten_bind_ASS_Image_set_stride_1Z&emscripten_bind_ASS_Image_get_bitmap_0`&emscripten_bind_ASS_Image_set_bitmap_1a%emscripten_bind_ASS_Image_get_color_03%emscripten_bind_ASS_Image_set_color_14%emscripten_bind_ASS_Image_get_dst_x_05%emscripten_bind_ASS_Image_set_dst_x_16%emscripten_bind_ASS_Image_get_dst_y_07%emscripten_bind_ASS_Image_set_dst_y_18$emscripten_bind_ASS_Image_get_next_09$emscripten_bind_ASS_Image_set_next_1:%emscripten_bind_VoidPtr___destroy___0_emscripten_bind_libass_libass_0,emscripten_bind_libass_oct_library_version_0)emscripten_bind_libass_oct_library_init_0)emscripten_bind_libass_oct_library_done_1*emscripten_bind_libass_oct_set_fonts_dir_2.emscripten_bind_libass_oct_set_extract_fonts_20emscripten_bind_libass_oct_set_style_overrides_20emscripten_bind_libass_oct_process_force_style_1*emscripten_bind_libass_oct_renderer_init_1*emscripten_bind_libass_oct_renderer_done_1+emscripten_bind_libass_oct_set_frame_size_3-emscripten_bind_libass_oct_set_storage_size_3'emscripten_bind_libass_oct_set_shaper_2(emscripten_bind_libass_oct_set_margins_5,emscripten_bind_libass_oct_set_use_margins_2-emscripten_bind_libass_oct_set_pixel_aspect_2-emscripten_bind_libass_oct_set_aspect_ratio_3 +emscripten_bind_libass_oct_set_font_scale_2¡(emscripten_bind_libass_oct_set_hinting_2¢-emscripten_bind_libass_oct_set_line_spacing_2£.emscripten_bind_libass_oct_set_line_position_2¤&emscripten_bind_libass_oct_set_fonts_6¥Aemscripten_bind_libass_oct_set_selective_style_override_enabled_2¦9emscripten_bind_libass_oct_set_selective_style_override_2§-emscripten_bind_libass_oct_set_cache_limits_3¨)emscripten_bind_libass_oct_render_frame_4&emscripten_bind_libass_oct_new_track_1©'emscripten_bind_libass_oct_free_track_1ª(emscripten_bind_libass_oct_alloc_style_1«(emscripten_bind_libass_oct_alloc_event_1¬'emscripten_bind_libass_oct_free_style_2­'emscripten_bind_libass_oct_free_event_2®)emscripten_bind_libass_oct_flush_events_1¯&emscripten_bind_libass_oct_read_file_3°%emscripten_bind_libass_oct_add_font_4±(emscripten_bind_libass_oct_clear_fonts_1²%emscripten_bind_libass_oct_step_sub_3,emscripten_enum_ASS_Hinting_ASS_HINTING_NONE³-emscripten_enum_ASS_Hinting_ASS_HINTING_LIGHT´.emscripten_enum_ASS_Hinting_ASS_HINTING_NORMALµ.emscripten_enum_ASS_Hinting_ASS_HINTING_NATIVE¶3emscripten_enum_ASS_ShapingLevel_ASS_SHAPING_SIMPLE³4emscripten_enum_ASS_ShapingLevel_ASS_SHAPING_COMPLEX´5emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_DEFAULT³7emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_STYLE´Femscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_SELECTIVE_FONT_SCALEµ;emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_FONT_SIZEµBemscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_FONT_SIZE_FIELDS·;emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_FONT_NAME¸8emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_COLORS¹<emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_ATTRIBUTESº8emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_BORDER»;emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_ALIGNMENT¼9emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_MARGINS½8emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_FULL_STYLE¾9emscripten_enum_ASS_OverrideBits_ASS_OVERRIDE_BIT_JUSTIFY¿freeÜreallocÞmemsetémallocÛ__errno_location¶setThrewÑmemalignà
-__data_end	dynCall_vó
-dynCall_viô
-dynCall_viiiiõdynCall_iiiödynCall_iiii÷
-dynCall_iiiiiø	stackSaveù
-stackAllocústackRestoreû__growWasmMemoryüdynCall_viiý
-dynCall_iiþdynCall_iiiiiiÿdynCall_viiidynCall_iiiiiiidynCall_iiiiiiiidynCall_viiiiidynCall_iiiiiiiiidynCall_viiiiiiiidynCall_viiiiiidynCall_iiiiiiiiiidynCall_viiiijidynCall_iiiiiiiiiiidynCall_diiidynCall_jijidynCall_iidiiii	èAò1èïðòóôëå©±²³´µ¶·¸»¼¾¿ÀÁÂÄÆÇÈÉÊËÌÍÎÏà¡¢¤¥¬­®°ÐÒÓØÙÚ áäæçñûüëìíóôõö÷øùúýþÿãäð£´µ ¡¢¤¥¦ë§¨®¯±²÷³¬¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÒÓÔÖ×ØÙÚÛÜÝåëÞßàáâã÷äæçèéêëìíîïð÷ñòóôõöøùúûýÿþÿ¡¢¦§¢¡«¯°³´µ·¸¹º»¼½¾ÀÁÂÅÎÐÑÒÃÄÇÈÉÊËÌÓòÔÕôó²·¹·¹ßà¡Éäåæêíµ¶º½ü¾¿ÀÁÂÃÄÅÆÇÈÉÊËÍÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞ»áýþÿ ¡£¥¦§¨2©ª«¬­®¯°±¤³´çèéîïðñòö÷øùúûÜ±¶ÚíË	Ì	Ð	Ò	Ô	Ø	Ù	Ú	à	á	â	è	ïð
-
-
-
-
- 
-¢
-
-à±
-µ
-¶
-¹
-º
-»
-¸
-¼
-½
-õ¾
-¿
-À
-úþÿ¡£¥²³´øøùûüýÒÒû¹¿À¾º»ÁÂÃÎÏÐõÑÒÖ×ØÙÚ»
-ÕÛÜÝ¿
-Þàáâ»
-ßãäõÝæçèìí»
-ðëãîûüþ
-
-÷
-
-³
-´
-µ
-¶
-È
-É
-Ê
-ÆË
-ÒÒÌ
-û
-ù
-¯¡¦¨©ª ­±²¶·¸¿ÀÁÂÃÄºÅÆÇÈÉÌÍÎ¾ÊÖ×ØÙÛÜÔçéÓÔÈ
-ÕÝÞßàáâÝêêóÓÔÈ
-ëÝîïàáâñòôõ÷ø ¡¢ü¼úûüýþÿ¥¦§²³´µ¶·¸¹º»¤½¾«¬­®¯°±¿ÀÁÂÓÐÒÔÕÖ×Ï¡çèéêìíîïðñòóôõýþû©ª¨Ú­²ÞßàáâãÒäå ¡£¥¢¤¦Å²ÔÕ¯ÃÇ£¤¦¨­¯°±²³´µ¶·¸¹º»¼½¾¿À2ÁÂÃÄÅÜáãäåæçèéêëìíîïðÆËÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛñòóÒõö÷øùúûüýþÿô ¡ÞÛ¥¢²§­µ¼¥ÈÊÅËØÜÝÞßï ¢£¤¥¦ô éï³
-ïQã¾*A'( N@AAïAþ(  A
-òA (	  6 (	  6 (	  6 (	  6 ( 	  6  ($	  6$ ((	  6( (,	  6, (0	  60 AÚ"B7 B7 B7 A' 6
-   Hx ç"6@ @ A6 A6  (¥"6 E
-   ³  6  6 (AAAAºA²ñAAËñA> ("@ À A6  ( AÌ"6 E@AåñA> ("@ À A6  (  Ê"6 E@AåñA ("@ À A6 (  ³  6  6< ( ( D@@¢"DàAc@ ªAx¬ « (À (¦ (é( (À (¦ (é  ( (H (AAAAº (    µ
- ((
- (Ã
- (Â ( Á
- ((T@ ("("AN@ (!A!@  Alj("@  ÒE
- Aj" G
-A! 
- (È (	  6 (	  6 (	  6 @ Ü (	  6 ( Alj ( Alj Aè
- ( A8ljS ( A8lj" )7  )070  )(7(  ) 7   )7  )7  )7 +0	  90 (8	  68 (<	  6< (@	  6@ (D	  6D (L	  6L (P	  6P +	  9 +8	  98 +@	  9@ +H	  9H +X	  9X +`	  9` (h	  6h (l	  6l (p	  6p (t	  6t (x	  6x (|	  6| +
-  9 (
-  6AÚA
-ç é	  ê  AG6	  ë Ä ¥ ¦   ³   ´  AG6\     µ	  6H	  ¶   £¶	  ·	  ¸	  9(	  ¹     º	  »	  ¼   ½ Î À Â Ã ( Alj"(Ü (Ü	  Á È   Ì
-    í ìAAAAAAAA AÀAAAAµ (X"@ (Ü (X(Ü (X(Ü (XÜ (Ü (Ü (DÜ@ ("E
-A! (AH
- (Ü (Ü (AN@@ ( Alj"(Ü (Ü Aj" (H
- (! Ü@ ("E
- (AH
-A!@  A8lj"(Ü (,Ü (0Ü (4Ü Aj" (NE@ (! (! Ü (PÜ Ü- ( A8lj"(Ü (,Ü (0Ü (4Ü (" ("L@@  G@ (!  Aj"6  ( AlÞ"6 (!  Aj6  AljAAé AýA¢	AèA¨	© (" ("L@@  G@ (!  AtAr"6  ( A8lÞ"6 (!  Aj6  A8lj"B7 B70 B7( B7  B7 B7 B7 A¸	A¢	AþAÝ	£		@ (T("E
- ("E
-@ !@ A=É"E
- A: Aj!@ (Aí	äE@  ­6$ (Aö	äE@  ­6( (Aÿ	äE@  Aæ90 (A
-äE@  ­68 (A
-äE@  Ü6< (A¥
-äE@  Ü6@ (A­
-ä
-  Ý6HA ("A.É"E
- A: Aj! (! (AN@A!@@ @ ( Alj( ä
- (! Aº
-äE@  Alj"Aj!	 ("@ Ü 	 Ö6 AÃ
-äE@  Alj Û6 AÑ
-äE@  Alj Û6 Aá
-äE@  Alj Û6 Aï
-äE@  Alj Û6 Aú
-äE@  Alj Aæ9 AäE@  Alj ­6  AäE@  Alj ­6$ AäE@  Alj ­6( AäE@  Alj ­6, A£äE@  Alj Aæ9@ A«äE@  Alj Aæ9H A±äE@  Alj ­6P A½äE@  Alj ­6h AÇäE@  Alj ­6 AÏäE@  Alj ­6l A×äE@  Alj ­6p AßäE@  Alj ­6t AçäE@  Alj ­6x AðäE@  Alj Aæ90 A÷äE@  Alj Aæ98 AþäE@  Alj Aæ9X AäE@  Alj Aæ9` Aä
-  Alj Aæ9 Aj" (H
- A=: E
- A.: Aj! ("
-í |#Aàk"$@@@ "-"Avj"AK@ AïG
- -A»G
-A!  -A¿G
-A! Ak !@ Aÿq"A
-MAA tAÈqE@ -! Aj!@@@  G@ @ A: Aj!@ AÚA
-åE@ (XA6 AèAåE@ (XA6 A6  AôAåE@ (XA6 A6  AAåE@ (XA6 AAå! (X! E@ A6 (Aj"AK
-@@@@ Ak AA	ÓE@  A	j­6$ AA	ÓE@  A	j­6( A¦AÓE@  AjAæ90 A­A
-ÓE@  A
-j­68 A¸AÓE@  AjÜ6< AÏAÓE@  AjÜ6@ AØA
-ÓE@  A
-jÝ6H AæA	Ó
- A	j!@ -	"E
-@ !@ AtAu"AwjAI
- A F
- AÿqA
-F
- ! Aj! -"
- (DÜ  AË6D AðAÓE@  Aj6\ AÜjÔ (Ü  (\Ö"6 (T!  6 AAø ß AAÓ
-  Aj6X AØjÔ (X! ("E@  ( AF@AÖAËÖ"6 Ö! (E@ ("AL
-  @ (!	A A6  (AÀÞ"	6 ("Aj6 	 Al"jAAé ( j"AÂÖ6AÊÖ!	 A6t A6h BÀ7` BÀ7X A6P B7@ Bø?78 Bø?70 AÈ6  B7 Bþÿÿàÿÿ7 BÀ7  	6 BÀ7l  6L (T!  6  6 AA® Ajß ("
- ("J
-@  
-G@ (!  
-Aj"6  ( AlÞ"6 (!
-  
-Aj6  
-Al"jAAé ( j"BÀ¬À78 BÀ¬À70  6\ A8j! A0j!
- AÜjÔ@ (\"-"E
- Aj! Aj! Aj! Aj! Aj! Aj! A j! A$j! A(j! A,j! A@k! AÈj! AÐj! Aèj! Aìj! Aðj! Aôj! Aøj! AØj!  Aàj!!@ !@@ Aÿq"E
- A,G@  Aj"	6\ -! 	! A: (\Aj! AÜj Õ (\A:  6\ AÜjÔ (\"! -"E
-@@ Aÿq"E
- A,G@  Aj"	6\ -! 	! A: (\Aj! AÜj Õ (\A: E
-@ A½äE@ ("@ Ü@ "Aj! -A*F
-  Ö"6 AÂÒ
-  
-6L Aº
-äE@ ("@ Ü  Ö6 AÃ
-äE@  Û6 AÑ
-äE@  Û6 Aá
-äE@  Û6 Aï
-äE@  Û"6 ( AG
-  6 Aú
-äE@  Aæ9 AäE@  ­6 AäE@  ­6 AäE@  ­6 AäE@  ­6 A£äE@  Aæ9 A«äE@  Aæ9 A±äE@  ­6 A½äE@  ­"6 ( AF@  Þ6 A|j"AK
-@@ Ak A6 A6 AÏäE@  ­6 A×äE@  ­6 AßäE@  ­6 AçäE@  ­6 AðäE@ 
- Aæ9 A÷äE@  Aæ9 AþäE@   Aæ9 Aä
- ! Aæ9  6\ AÜjÔ (\"-"
- 
- 
-+""D "DdDY@£9  +""D "DdDY@£9  ( AG6   ($AG6$  ((AG6(  (,AG6,  +@""D "Dd9@  +X""D "Dd9X  +`""D "Dd9` (E@ AÂÖ6 (E@ AÊÖ6 Ü  6\ AðAÓE@  Aj6X AØjÔ (Ü  (XÖ"6 (T!  6  AAÐ A jß AáA	ÓE@  A	j6\ AÜjÔ (" ("J
-@  G@ (!  AtAr"6  ( A8lÞ"6 (!  Aj6  A8l"j"B7 B70 B7( B7  B7 B7 B7 ( j! (E@ (XA6 AAå ( AFÖ6 (TAA®Aß   (\Æ (T!  60 AAë A0jß AA	ÓE@  A	j6\ AÜjÔ (X(@ Ç (\Ö! (X 6 (T!  6@ AA A@kß (E@ (T!  6P AA AÐjß@ ("	 ò"j ("L@ (!   A  A Jj"	6 ( 	Þ! (X"	 6 	(!	  	j  è (X" ( j6 -
- (X(@ Ç Aàj$AýA¢	AèA¨	AýA¢	AèA¨	A¸	A¢	AþAÝ	  j!¯	#A0k"$ (Ö!	@ (E@ ("AL
-  @ (!A A6  (AÀÞ"6 ("Aj6  Al"jAAé ( j"AÂÖ6AÊÖ! A6t A6h BÀ7` BÀ7X A6P B7@ Bø?78 Bø?70 AÈ6  B7 Bþÿÿàÿÿ7 BÀ7  6 BÀ7l  6L  	6, A,jÔ@ (,"-"E
-@ !@@ Aÿq"E
- A,G@  Aj"6, -! ! A: (,Aj! A,j Õ (,A: AÔäE@  Ö"60@ -E
- ò jAj" I
- -A
-G
- A:  ) )}7  6, A,jÔ (,"! -"E
-@@ Aÿq"E
- A,G@  Aj"6, -! ! A: (,Aj! A,j Õ (,A:@ AÝ AÙä"AæäE@  ­6 AìäE@   â6 A½äE@ ("@ Ü  Ö6 AòäE@ (,"@ Ü  Ö6, AÏäE@  ­6  A×äE@  ­6$ AßäE@  ­6( AùäE@ (T!  A,j6  A(j6  A$j6  A j6  AL@ AAAß B7  4$ 4( 4,B<~|B<~|Bè~ 4 B
-~|7 AÝä
- (T!  A,j6  A(j6  A$j6  A j6 ~  AjAL@ AAAßB 4$ 4( 4,B<~|B<~|Bè~ 4 B
-~|7  6, A,jÔ (,"-"
- 	Ü A0j$AýA¢	AèA¨	º#Ak"$ (T!  (X(6 AA¯ ß@ (X"(" Am"Atk"	AF@ (TAAËAßAA Al" 	AjA 	AJj"Û"E
- (! AH  At!
-A! ! !@ -! -!
-  -AjA?qAt" -AjA?qr:   
-AjA?qAt"
-rAv:  At 
-rAðjAv: Aj! Aj! Aj" G
-  
-j!  j! 	A~j"AM AkE@ -!  -AjA?qAt" -AtrAðjAv: AjA<qAt rAv!A! Aj -AjA0qAt -AjAÿqAtrAv!A!  :  j  k G
- (T"(@  (X(  í Ü (X(Ü (X(Ü (X"B7 B7 Aj$AáA¢	AÃA| ("@@ (AH
-@  A8lj"(Ü (,Ü (0Ü (4Ü Aj" (N
- (! A6 (X(Ü (XB7³#A@j"$@ Aí"E@  6 AA ß AAìAF@  6 AAµ Ajß æ ä! ö  60 AAÕ A0jß@ AF
- AjÛ"E
-A!@  j  k ñ"AL@AØ¢'(! AØ¢'(¸6$  6  AAä A jß æ ÜA!   j"J
-  jA: æ E
-  6 æA! A@k$ #Ak"$@ E
- AjÛ"E
-   è jA:@AAàÝ"E
- A6<  6T AA Ý"6X E@ Ü A6 !  Å ("AN@ (!A!@  A8lj 6 Aj" G
- ( E@ À ÜA! Ä Ü (!  (6  6 AAø ß Aj$ î#Ak"$@@ @ µ"AF
- AA³Aß  6  Aj6A!@ Û"E
-  6  6 ! ! !@@@@ @  Aj Aj  Aj¸AF
- 
-A! (!A! AA  Aj¸AG
-AØ¢'(AF@ (!   j"Þ"E
-  ( j6    kj6 ! (! AAêAß ÜA!   (AsjjA: AAþAßAA¢	A×A¨A! AAËAß Aj$ «#Ak"$@@   AjÉ"@ E@ !   ( Ë! Ü 
-@AAàÝ"E
- A6<  6T AA Ý"6X E@ Ü A6 !  Å ("AN@ (!A!@  A8lj 6 Aj" G
- ( E@ À ÜA! Ä Ü  Ö6P (!  (6  6  6 AA­
- ß Aj$ ²~@ ("E
-AA  AG AH"	¬! AH! 	AJ! ! !
-@@ @A! ! (!
-A! !A!@ 
- A8lj")!@ E@ ) |" Y
-   E  Ur"!   ! @  W
-   E  Sr"!   !  Y
-   AG  Sq"!   ! Aj" G
-   !  |! 
- 	k"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[Script Info]
-; Script generated by Aegisub master r8903+1 g1042226, line0
-; http://www.aegisub.org/
-Title: Default Aegisub file
-ScriptType: v4.00+
-WrapStyle: 0
-ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
-PlayResX: 1280
-PlayResY: 720
-
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: ../../../../ซับ/เอ็นโค้ดแล้ว/HandBrake/[DarkAce-FS] [Lucifer(1st) EP 07] Monster Strike The Animation [online].mp4
-Video File: ../../../../ซับ/เอ็นโค้ดแล้ว/HandBrake/[DarkAce-FS] [Lucifer(1st) EP 07] Monster Strike The Animation [online].mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 45
-Active Line: 50
-Video Position: 14340
-
-[V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,7,7,7,1
-Style: ใส,Layiji MaHaNiYom V1.61,77,&HFFFFFFFF,&HFF0000FF,&HFF99807F,&HFF000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,33,1
-Style: japa สีดำ - Copy,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H00676772,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: อาซาเทียซับ,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H0099807F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,33,1
-Style: japa อธิบายสกิล,Boriboon,57,&H00FFFFFF,&H00000000,&H00465278,&H00515152,0,0,0,0,100,100,0,0,1,1.66667,0,7,133,40,36,1
-Style: japa มิไร,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H0009A771,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa เซอร์วัล,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H002A8AE4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa คาราคัล,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H004C68DF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa โทคิ,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H006555C7,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa ราบิราบิ,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H009C9894,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa รูรุ,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H007DA2DE,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa สีดำ,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H00676772,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa ลัคกี้,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H00AE9204,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa เซวัล,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H0002B034,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa แรคคูณอาราอิ,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H005A514C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa เฟนเนค,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H0037A8F0,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa ศจ ฮูกเทา,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H00938081,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa ผู้ช่วย ศจ,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H00284D7F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa จิ้งจอกเงิน,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H006F6260,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa คุโระ,Layiji MaHaNiYom V1.61,70,&H00FFFFFF,&H000000FF,&H0099807F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,7,7,30,1
-Style: japa ฮิเมะ,Layiji MaHaNiYom V1.61,53,&H00FFFFFF,&H000000FF,&H005C9CB4,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,7,7,30,1
-
-[Events]
-Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:17.73,0:00:21.77,อาซาเทียซับ,,0,0,0,,ถ้าคุณอูรีเอลไปสู้โดยที่ไม่รู้ความจริงล่ะก็
-Dialogue: 0,0:00:24.02,0:00:27.73,อาซาเทียซับ,,0,0,0,,แบบนั้นน่ะมันน่าเศร้าเกินไปแล้ว
-Dialogue: 0,0:01:01.97,0:01:03.56,อาซาเทียซับ,,0,0,0,,ฉันมันอ่อนหัดเอง
-Dialogue: 0,0:01:05.10,0:01:08.27,อาซาเทียซับ,,0,0,0,,ตั้งแต่ที่ท่านเคเตอร์บอกว่าเธอวางแผนก่อกบฏ
-Dialogue: 0,0:01:08.97,0:01:14.82,อาซาเทียซับ,,0,0,0,,ก็เอาแต่คิดว่าจะช่วยเธอได้ยังไงมาโดยตลอด
-Dialogue: 0,0:01:16.82,0:01:18.20,อาซาเทียซับ,,0,0,0,,ใครขอให้ทำล่ะ
-Dialogue: 0,0:01:19.53,0:01:21.08,อาซาเทียซับ,,0,0,0,,ทำไมล่ะลูซิเฟอร์
-Dialogue: 0,0:01:21.91,0:01:25.20,อาซาเทียซับ,,0,0,0,,ฉันสามารถช่วยเธอได้นะ
-Dialogue: 0,0:01:32.21,0:01:37.17,อาซาเทียซับ,,0,0,0,,เรื่องนั้นน่ะน่าจะทำก่อนส่งพวกมิคาเอลมานะ
-Dialogue: 0,0:01:38.63,0:01:39.84,อาซาเทียซับ,,0,0,0,,ฆ่าไปแล้วงั้นหรอ
-Dialogue: 0,0:02:02.49,0:02:03.78,อาซาเทียซับ,,0,0,0,,ตอบมาสิ
-Dialogue: 0,0:02:23.10,0:02:24.91,อาซาเทียซับ,,0,0,0,,Angel Halo
-Dialogue: 0,0:02:32.43,0:02:34.20,อาซาเทียซับ,,0,0,0,,ทำไมถึงไม่พูดอะไรเลย
-Dialogue: 0,0:02:45.78,0:02:49.82,อาซาเทียซับ,,0,0,0,,ลูซิเฟอร์
-Dialogue: 0,0:02:55.25,0:02:56.46,อาซาเทียซับ,,0,0,0,,ฉันเชื่อเสมอ
-Dialogue: 0,0:02:56.46,0:02:59.72,อาซาเทียซับ,,0,0,0,,ว่าสักวันเธอจะกลายเป็นผู้ชี้นำพวกเรา
-Dialogue: 0,0:04:03.74,0:04:06.82,อาซาเทียซับ,,0,0,0,,อาวุธทุกอย่างจะไม่สามารถใช้ได้ในที่แห่งนี้
-Dialogue: 0,0:04:08.99,0:04:11.29,อาซาเทียซับ,,0,0,0,,ก็คิดว่าน่าจะรู้อยู่แล้ว
-Dialogue: 0,0:04:15.04,0:04:18.04,อาซาเทียซับ,,0,0,0,,เป็นที่ซ่อนที่เหมาะกับพวกขี้ขลาดเลยนะ
-Dialogue: 0,0:04:18.71,0:04:23.55,อาซาเทียซับ,,0,0,0,,ความรักของพระผู้เป็นเจ้าช่วยปกป้องผมอยู่
-Dialogue: 0,0:04:23.55,0:04:29.26,อาซาเทียซับ,,0,0,0,,ถ้างั้นฉันก็จะทำลายไอของไร้สาระนั่นเอง
-Dialogue: 0,0:04:30.34,0:04:35.69,อาซาเทียซับ,,0,0,0,,ด้วยออร์บที่คุณซ่อนเอาไว้หรือครับ
-Dialogue: 0,0:04:37.98,0:04:40.73,อาซาเทียซับ,,0,0,0,,มาเริ่มบรรเลงเพลงสวดส่งกันเถอะ
-Dialogue: 0,0:05:11.47,0:05:16.27,อาซาเทียซับ,,0,0,0,,นี่หรือผู้ที่ครั้งหนึ่งเคยถูกกล่าวว่าจะนำแสงสว่างมาสู่โลก
-Dialogue: 0,0:05:19.56,0:05:22.48,อาซาเทียซับ,,0,0,0,,ยังมีอีกหนึ่งสิ่งที่อยากให้ส่งคืนกลับมา
-Dialogue: 0,0:05:28.86,0:05:30.87,อาซาเทียซับ,,0,0,0,,เคเตอร์ แก
-Dialogue: 0,0:05:34.95,0:05:39.25,อาซาเทียซับ,,0,0,0,,ในที่สุดก็จะถึงฉากสุดท้ายแล้ว
-Dialogue: 0,0:05:40.50,0:05:45.63,อาซาเทียซับ,,0,0,0,,ฉันไม่ได้โง่ขนาดรอให้เธอมาถึงโดยที่ไม่ได้เตรียมการอะไรเลย
-Dialogue: 0,0:05:46.01,0:05:49.01,อาซาเทียซับ,,0,0,0,,อุตส่าห์ได้ออร์บไปอยู่ในมือแล้วแท้ ๆ
-Dialogue: 0,0:05:50.59,0:05:53.39,อาซาเทียซับ,,0,0,0,,สุดท้ายทุกอย่างก็สูญเปล่านะครับ
-Dialogue: 0,0:05:55.02,0:05:57.98,อาซาเทียซับ,,0,0,0,,เคเตอร์มีแค่แกเท่านั้น
-Dialogue: 0,0:05:58.44,0:06:02.82,อาซาเทียซับ,,0,0,0,,โปรดลดเสียงลงด้วย ที่นี่เป็นสถานที่ศักดิ์สิทธิ์นะครับ
-Dialogue: 0,0:06:05.32,0:06:09.07,อาซาเทียซับ,,0,0,0,,แววตาที่เปี่ยมไปด้วยความเกลียดชังนั่นช่างงดงามยิ่งนัก
-Dialogue: 0,0:06:10.49,0:06:13.16,อาซาเทียซับ,,0,0,0,,โปรดระวังด้วยท่านเคเตอร์
-Dialogue: 0,0:06:15.24,0:06:19.21,อาซาเทียซับ,,0,0,0,,ดูเหมือนลูซิเฟอร์จะกลายเป็นเทพตกสวรรค์ไปแล้วจริง ๆ
-Dialogue: 0,0:06:20.08,0:06:24.84,อาซาเทียซับ,,0,0,0,,ก่อนจะกลายเป็นสัตว์ประหลาดอย่างน้อยก็ขอให้ฉัน
-Dialogue: 0,0:06:26.59,0:06:29.63,อาซาเทียซับ,,0,0,0,,ได้ยินไหมครับคุณลูซิเฟอร์
-Dialogue: 0,0:06:31.22,0:06:33.60,อาซาเทียซับ,,0,0,0,,นักแสดงมารวมตัวกันครบแล้ว
-Dialogue: 0,0:06:41.90,0:06:45.07,อาซาเทียซับ,,0,0,0,,เท่านี้ก็ไม่มีใครเข้ามารบกวนพวกเราได้แล้ว
-Dialogue: 0,0:06:45.07,0:06:46.40,อาซาเทียซับ,,0,0,0,,ท่านเคเตอร์
-Dialogue: 0,0:06:47.78,0:06:53.16,อาซาเทียซับ,,0,0,0,,ดูเหมือนคุณจะมีเพื่อนที่เป็นห่วงเป็นใยเสมอเลยนะ
-Dialogue: 0,0:06:53.78,0:06:56.22,อาซาเทียซับ,,0,0,0,,พูดถึงอะไรคะ ลูซิเฟอร์น่ะ
-Dialogue: 0,0:06:56.22,0:07:00.75,อาซาเทียซับ,,0,0,0,,โลกที่พระเจ้าทรงสร้างเต็มเปี่ยมไปด้วยความรักเช่นนี้
-Dialogue: 0,0:07:00.75,0:07:04.59,อาซาเทียซับ,,0,0,0,,อา ช่างเป็นมิตรภาพที่สวยงามอะไรอย่างนี้
-Dialogue: 0,0:07:05.63,0:07:07.09,อาซาเทียซับ,,0,0,0,,มิตรภาพ ?
-Dialogue: 0,0:07:07.55,0:07:11.09,อาซาเทียซับ,,0,0,0,,อย่าพูดอะไรอีกนะอูรีเอล
-Dialogue: 0,0:07:11.47,0:07:17.72,อาซาเทียซับ,,0,0,0,,ฉันตื่นเต้นที่จะได้เห็นช่วงเวลาที่สวยงามพังทลายลงจนทนไม่ได้เลย
-Dialogue: 0,0:07:44.46,0:07:46.42,อาซาเทียซับ,,0,0,0,,เหมือนจะยังมีชีวิตอยู่นะคะ
-Dialogue: 0,0:07:47.88,0:07:48.91,อาซาเทียซับ,,0,0,0,,โธ่
-Dialogue: 0,0:07:50.38,0:07:52.60,อาซาเทียซับ,,0,0,0,,ข้างในมันเกิดอะไรขึ้น
-Dialogue: 0,0:07:58.47,0:07:59.39,อาซาเทียซับ,,0,0,0,,เคเตอร์
-Dialogue: 0,0:07:59.81,0:08:01.60,อาซาเทียซับ,,0,0,0,,คนที่แกต้องการคือฉัน
-Dialogue: 0,0:08:01.60,0:08:03.64,อาซาเทียซับ,,0,0,0,,เพราะงั้นปล่อยเธอไปซะ
-Dialogue: 0,0:08:12.74,0:08:15.07,อาซาเทียซับ,,0,0,0,,ลูซิเฟอร์ขอโทษ
-Dialogue: 0,0:08:16.03,0:08:18.16,อาซาเทียซับ,,0,0,0,,ถ้าฉันเชื่อใจเธอล่ะก็
-Dialogue: 0,0:08:18.95,0:08:21.91,อาซาเทียซับ,,0,0,0,,ไม่มีความจำเป็นที่ต้องหลั่งน้ำตา
-Dialogue: 0,0:08:21.91,0:08:25.42,อาซาเทียซับ,,0,0,0,,เพราะท่านคือผู้เสียสละที่ถูกเลือก
-Dialogue: 0,0:08:26.04,0:08:32.72,อาซาเทียซับ,,0,0,0,,พระผู้เป็นเจ้าโปรดอภัยบาปที่ผมเอาชีวิตของท่านอูรีเอลด้วยเถอะครับ
-Dialogue: 0,0:08:36.05,0:08:39.60,อาซาเทียซับ,,0,0,0,,อา นั่นสินะครับ
-Dialogue: 0,0:08:40.26,0:08:44.56,อาซาเทียซับ,,0,0,0,,ทั้งหมดนี้ก็เพื่อรักษาระเบียบของสวรรค์
-Dialogue: 0,0:08:44.93,0:08:47.35,อาซาเทียซับ,,0,0,0,,พระเจ้าไม่มีทางพูดเรื่องแบบนั้นหรอก
-Dialogue: 0,0:08:48.22,0:08:50.39,อาซาเทียซับ,,0,0,0,,ผิดแล้ว
-Dialogue: 0,0:08:51.15,0:08:57.82,อาซาเทียซับ,,0,0,0,,เพราะสุดท้ายแล้วพระเจ้าก็จะอยู่ข้างผมเสมอ
-Dialogue: 0,0:09:01.41,0:09:03.62,อาซาเทียซับ,,0,0,0,,เปิดสิโว้ย
-Dialogue: 0,0:09:11.09,0:09:12.59,อาซาเทียซับ,,0,0,0,,ไม่ได้ผลเลยนะคะ
-Dialogue: 0,0:09:13.84,0:09:16.26,อาซาเทียซับ,,0,0,0,,ฉันโกรธแล้วนะ
-Dialogue: 0,0:09:17.26,0:09:18.21,อาซาเทียซับ,,0,0,0,,คุณมิกะ
-Dialogue: 0,0:09:18.21,0:09:20.51,อาซาเทียซับ,,0,0,0,,ตามมา ฉันมีความคิดดี ๆ อยู่
-Dialogue: 0,0:09:32.94,0:09:40.17,อาซาเทียซับ,,0,0,0,,เมื่อรู้ว่าชัยชนะอยู่ในมือ มือของผมก็สั่นไปด้วยความเปี่ยมสุข
-Dialogue: 0,0:09:42.12,0:09:43.33,อาซาเทียซับ,,0,0,0,,เคเตอร์
-Dialogue: 0,0:09:56.22,0:09:58.38,อาซาเทียซับ,,0,0,0,,อย่านะ
